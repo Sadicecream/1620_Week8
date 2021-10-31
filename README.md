@@ -1,10 +1,14 @@
 # README
-F18C8E
+Fonts and colours
 
-F0B7A4
+## Colour Pallete
+-----
+* '#F18C8E'
+* '#F0B7A4'
+* '#F1D1B5'
+* '#568EA6'
+* '#305F72'
 
-F1D1B5
-
-568EA6
-
-305F72
+## Google Fonts
+* Serif: Roboto Slab
+* Sans-Serif: Roboto
